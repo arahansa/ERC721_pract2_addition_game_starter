@@ -2,7 +2,7 @@
   "name": "klay-dapp-boilerplate",
   "version": "0.0.1",
   "description": "boilerplate for klaytn-based app",
-  "main": "truffle.js",
+  "main": "truffle-config.js",
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server"
